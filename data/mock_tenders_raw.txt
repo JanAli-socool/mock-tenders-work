@@ -1,0 +1,14 @@
+Tender 1:
+The city of Berlin is commissioning the construction of a new municipal library. The project includes Kostengruppen 300 and 400 with an estimated budget of €2.5 million. The phases include planning, execution, and commissioning. Bids must be submitted by June 15, 2025.
+
+Tender 2:
+A healthcare facility is planned in Munich with a budget allocation of €3.1 million across Kostengruppen 300 and 400. This is a hospital project requiring phase 1 through 5 execution. Deadline for submission is July 30, 2025.
+
+Tender 3:
+Stuttgart is seeking proposals for the refurbishment of a historic theatre. The total budget (Kostengruppen 300 + 400) is €1.8 million. It includes planning, interior remodeling, and electrical system upgrades. Final date for bid submission: August 10, 2025.
+
+Tender 4:
+Hamburg starts a school upgrade with €1.5 million budget. Execution and interior updates. Deadline: Sept 15, 2025.
+
+Tender 5:
+Cologne launches a €3.5 million office complex build. Phases 1–4 included. Deadline: Oct 1, 2025.
